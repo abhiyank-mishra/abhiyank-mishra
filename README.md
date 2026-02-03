@@ -14,7 +14,7 @@ I'm Abhiyank, a passionate developer from India. I love building full-stack web 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhiyank-mishra&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&t=1" alt="Abhiyank's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhiyank-mishra&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&t=2" alt="Abhiyank's Streak" />
 </p>
 
 <p align="center">
