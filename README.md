@@ -14,7 +14,7 @@ I'm Abhiyank, a passionate developer from India. I love building full-stack web 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyank-mishra&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="Abhiyank's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhiyank-mishra&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="Abhiyank's Streak" />
 </p>
 
 <p align="center">
@@ -53,8 +53,6 @@ I'm Abhiyank, a passionate developer from India. I love building full-stack web 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Abhiyank_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://abhiyank.in"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
