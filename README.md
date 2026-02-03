@@ -18,7 +18,7 @@ I'm Abhiyank, a passionate developer from India. I love building full-stack web 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiyank-mishra&label=Profile%20Views&color=f75c7e&style=flat-square" alt="Abhiyank's Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhiyank-mishra&label=Profile%20Views&color=f75c7e&style=flat-circle" alt="Abhiyank's Profile Views" />
 </p>
 
 ---
